@@ -7,5 +7,10 @@ public class EclipseTest {
 		System.out.println("2" + 2+ "2" );
 
 	}
+	public void changesFromRemote(){
+		
+		
+	}
+	
 
 }
